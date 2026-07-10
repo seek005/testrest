@@ -1,0 +1,6 @@
+{
+  "name": "Pelkote Restaurant POS",
+  "description": "Enterprise-grade, mobile-first, and bilingual restaurant point of sale system for Pelkote Restaurant with table management, kitchen display, billing, and AI sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
